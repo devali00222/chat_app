@@ -1,0 +1,22 @@
+{
+  "name": "chat-app",
+  "version": "1.0.0",
+  "description": "real time chat application",
+  "main": "server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devali00222/chat_app.git"
+  },
+  "keywords": [
+    "Node.js"
+  ],
+  "author": "dev ali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devali00222/chat_app/issues"
+  },
+  "homepage": "https://github.com/devali00222/chat_app#readme"
+}
